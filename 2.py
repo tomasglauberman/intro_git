@@ -9,3 +9,7 @@ def branch1_2(n):
 
 def branch2(s):
     return "branch2"
+
+
+def prueba(n):
+    return "Nueva"
